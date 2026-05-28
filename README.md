@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 "# cd-9AIEVND-ADND-Practicas-230372" 
-se actualizo el repositorio
 =======
 ![LogoTI](./images/Logo_TI.jpeg)
 # 9AIEVND-ADND-Practica-230284
@@ -15,5 +14,5 @@ En este repositorio contendra los resultados de las prácticas de la materia par
 
 |Número|Descripción|Potenciador|Estatus|
 |---|---|---|---|
-|1.|[Introducción al uso de Python en el Ánalisis de Datos](/Practica02/Practica02_230509.ipynb)|37|✅Revisada|
->>>>>>> Practica02
+|1.|[Introducción al uso de Python en el Ánalisis de Datos](/practica02/Practica02_230509.ipynb)|37|✅Revisada|
+
