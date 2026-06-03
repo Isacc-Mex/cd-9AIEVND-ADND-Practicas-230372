@@ -16,3 +16,4 @@ En este repositorio contendra los resultados de las prácticas de la materia par
 |---|---|---|---|
 |1.|[Introducción al uso de Python en el Ánalisis de Datos](./practica02/Practica02.ipynb)|37|✅Revisada|
 
+se anexara cambias
