@@ -17,3 +17,4 @@ En este repositorio contendra los resultados de las prácticas de la materia par
 |1.|[Introducción al uso de Python en el Ánalisis de Datos](./practica02/Practica02.ipynb)|37|✅Revisada|
 |2.|[Analisis Exploratorio de Datos (EDA) con Python y Jupiter](./practica04/Practica04.ipynb)|16|✅Revisada|
 
+se anexara cambias
