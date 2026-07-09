@@ -1,6 +1,6 @@
 
-"# cd-9AIEVND-ADND-Practicas-230372" 
-=======
+
+
 ![LogoTI](./images/Logo_TI.jpeg)
 # 9AIEVND-ADND-Practica-230284
 Practica realizada en clases
